@@ -1,0 +1,4 @@
+/home/arauf/Desktop/Data/Sem5/OS/OS-Lab/library-demo/build/CMakeFiles/mathlib.dir
+/home/arauf/Desktop/Data/Sem5/OS/OS-Lab/library-demo/build/CMakeFiles/app.dir
+/home/arauf/Desktop/Data/Sem5/OS/OS-Lab/library-demo/build/CMakeFiles/edit_cache.dir
+/home/arauf/Desktop/Data/Sem5/OS/OS-Lab/library-demo/build/CMakeFiles/rebuild_cache.dir
