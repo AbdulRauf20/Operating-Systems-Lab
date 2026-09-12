@@ -1,0 +1,14 @@
+CS311_A01_2024641_main.c
+CS311_A01_2024641_main.o
+CS311_A01_2024641_process.c
+CS311_A01_2024641_process.h
+CS311_A01_2024641_process.o
+CS311_A01_2024641_shell.c
+CS311_A01_2024641_shell.h
+CS311_A01_2024641_shell.o
+linenoise.c
+linenoise.h
+linenoise.o
+Makefile
+mysh
+output.txt
